@@ -1,0 +1,14 @@
+$color-primary:  rgb(202, 16, 193);
+$box-sizing: border-box;
+$border:1px solid rgb(100, 100, 100);
+
+.card{
+    margin-bottom: .75rem;
+    display: block;
+    border: $border;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    &__body {
+        flex: 1 auto ;
+    }
+}

@@ -1,0 +1,9 @@
+.card {
+  margin-bottom: .75rem;
+  display: block;
+  border: 1px solid #646464;
+  font-family: 'Roboto Condensed', sans-serif; }
+  .card__body {
+    flex: 1 auto; }
+
+/*# sourceMappingURL=style.css.map */
